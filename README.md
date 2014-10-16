@@ -3,6 +3,8 @@ SmallWordpressSlideshow
 
 Small Wordpress theme function.php slideshow
 
+Demo: http://razko.no/slideshow/
+
 Use shortcode in posts/pages:
 
 [slideshow ids="a,b,c"]
